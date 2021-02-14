@@ -2,4 +2,6 @@ This is my first text file submitted using GIT and not github
 
 Now I have added some more text
 
-This change has been written on a local computer. 
+This change has been written on a local computer.
+
+Now I am going to add another local line. Push it remotely and then I will create a branch on github and see what hapenns then.
