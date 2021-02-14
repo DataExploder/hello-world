@@ -1,0 +1,1 @@
+This is my first text file submitted using GIT and not github
