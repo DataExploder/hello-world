@@ -8,4 +8,6 @@ Now I am going to add another local line. Push it remotely and then I will creat
 
 The following lines have been added in a new branch on GITHUB.
 
+I will commit these lines and see how it is dealt with locally!
+
 
